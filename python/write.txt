@@ -1,0 +1,26 @@
+this is a read file!
+read string from disk
+something happen
+good good day! 
+this is a read file!
+read string from disk
+something happen
+good good day! 
+=================begin to write===========
+this is a read file!
+read string from disk
+something happen
+good good day! 
+=================begin to write===========
+this is a read file!
+read string from disk
+something happen
+good good day! 
+~~~~~~~~~~~~~~~end to write~~~~~~~~~~~~~~~~~~
+=================begin to write===========
+this is a read file!
+read string from disk
+something happen
+good good day! 
+~~~~~~~~~~~~~~~end to write~~~~~~~~~~~~~~~~~~
+

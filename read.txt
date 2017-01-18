@@ -1,0 +1,4 @@
+this is a read file!
+read string from disk
+something happen
+good good day! 
